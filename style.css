@@ -1,0 +1,29 @@
+
+*{
+    font-family: Helvetica, 'sans-serif';
+}
+body{
+    background: #beb9a5;
+}
+header{
+    margin:auto;
+    width:80%;
+    padding-top:10px;
+}
+ul {
+    margin:auto;
+    display: flex;
+    width:80%;
+    justify-content: center;
+    flex-direction: column;
+    list-style-type: none;
+    padding: 0;
+}
+ul li {
+    margin: 10px 0;
+    padding:5px;
+}
+
+ul li a {
+    text-decoration: none;
+}
